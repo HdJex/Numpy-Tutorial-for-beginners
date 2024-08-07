@@ -13,4 +13,4 @@ To install NumPy, use the following pip command:
 pip install numpy
 
 
-thsi file consist of basic numpy functions.
+this file consist of basic numpy functions.
